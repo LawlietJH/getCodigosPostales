@@ -1,0 +1,4524 @@
+{
+    "76000": [
+        {
+            "colonia": "Centro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76005": [
+        {
+            "colonia": "Mariano Escobedo", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rincón de San Andrés", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada Morelos", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vicente Guerrero", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76010": [
+        {
+            "colonia": "Las Campanas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Niños Héroes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76017": [
+        {
+            "colonia": "Centro Universitario (U.A.Q.)", 
+            "tipo": "Equipamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76020": [
+        {
+            "colonia": "Bosques del Acueducto", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Calesa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Diligencias", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Cortijo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Querétaro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cruz", 
+            "tipo": "Barrio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pathé", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Javier", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76024": [
+        {
+            "colonia": "Calesa 2a Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Conjunto Seminario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Del Río", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Cortijo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Cortijo II", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Oasis", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Karina", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Peñita", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa Los Arcos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76025": [
+        {
+            "colonia": "La Pastora", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76026": [
+        {
+            "colonia": "Goyeneche", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cruz", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76027": [
+        {
+            "colonia": "Arboledas del Río", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José Inn", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76028": [
+        {
+            "colonia": "Universidad", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76030": [
+        {
+            "colonia": "Casa Blanca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Carrizal", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Prado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Estrella", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Fuentes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Misiones", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Moderna", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Ángel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Refugio", 
+            "tipo": "Villa", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76036": [
+        {
+            "colonia": "Rinconada Fray Juan", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76037": [
+        {
+            "colonia": "Mariano de las Casas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76040": [
+        {
+            "colonia": "Alameda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Andalucía", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Aragón", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Palmas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mercurio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Observatorio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Panamericano", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle Alameda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Sur", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76046": [
+        {
+            "colonia": "El Laurel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Panorámico", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Joaquín", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76047": [
+        {
+            "colonia": "El Marqués", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Quintas del Marqués", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76048": [
+        {
+            "colonia": "Arquitos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76049": [
+        {
+            "colonia": "Loma Bonita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76050": [
+        {
+            "colonia": "Carretas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76057": [
+        {
+            "colonia": "Hidalgo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76058": [
+        {
+            "colonia": "San Francisquito", 
+            "tipo": "Barrio", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76059": [
+        {
+            "colonia": "Plaza de las Américas", 
+            "tipo": "Zona comercial", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76060": [
+        {
+            "colonia": "Cumbres del Mirador", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Dorada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Milenio 3a. Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Dorada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76063": [
+        {
+            "colonia": "Cuesta Bonita", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pedregal de Vista Hermosa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Oriente", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Hermosa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76067": [
+        {
+            "colonia": "La Laguna", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76069": [
+        {
+            "colonia": "2 de Abril", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "8 de Diciembre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bugambilias", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Bosque", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Limonar", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Hércules", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Hércules", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cuesta", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Estación", 
+            "tipo": "Barrio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Estación 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Morelos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José de los Perales", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tejas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76070": [
+        {
+            "colonia": "Conjunto Terranova", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Corregidora (Burocrata)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Retiro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Linda", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados del Mirador", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76074": [
+        {
+            "colonia": "La Alhambra", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Palomar del Duque", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Alegre", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Alegre 2a Secc", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Alegre 3a Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76078": [
+        {
+            "colonia": "Villas Valle Alameda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76079": [
+        {
+            "colonia": "Balaustradas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Quinta Balaustradas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76080": [
+        {
+            "colonia": "Lomas de Casa Blanca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Presidentes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76085": [
+        {
+            "colonia": "Altos del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Arte Mexicano", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Azteca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas del Sur", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Marqués Queretano", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fraternidad de Santiago", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Unión", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lázaro Cárdenas III", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Valle", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rincón del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Universo 2000", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vistas del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76086": [
+        {
+            "colonia": "Reforma Agraria 1a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Reforma Agraria 2a Secc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Reforma Agraria 3a Secc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Reforma Agraria 4a Secc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Reforma Agraria 5a Secc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76087": [
+        {
+            "colonia": "Bellavista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques de las Lomas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques de Querétaro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques del Cimatario 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Campestre Italiana", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Comerciantes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Constelación", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cuitlahuac", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Huertas del Cimatario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines del Cimatario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lázaro Cárdenas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Linderos del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Pasteur", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Manantiales del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Cimatario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Monte Blanco I", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Monte Blanco II", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Monte Blanco III", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pedregal del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Praderas del Sol", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados de Querétaro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Raquel Trejo Ortiz", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Andrés", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Unidad Roma", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Cimatario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Rincón", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista Azul", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Zapata Vive", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76090": [
+        {
+            "colonia": "Centro Sur", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas del Cimatario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76093": [
+        {
+            "colonia": "Ángeles", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de la Catedral", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de la Corregidora 2", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de la Corregidora I", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de las Misiones", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de Santiago", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros del Marques", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros del Sur", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76099": [
+        {
+            "colonia": "Plazas del Sol 1a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Plazas del Sol 2a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Plazas del Sol 3a Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76100": [
+        {
+            "colonia": "Atenas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bleu Casas Platina", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Dolce Terra", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Destino", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Gobernantes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Hacienda Santa Rosa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jurica", 
+            "tipo": "Pueblo", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jurica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jurica Pinar", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Castellana", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Campanas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Murano", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada de los Portones", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada Jurica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Rosa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle Garden", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vive", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76110": [
+        {
+            "colonia": "Ampliación Satélite", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cosmos (Satelite)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Josefa Ortiz de Domínguez II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Josefa Ortiz de Domínguez III", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Satélite", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Satélite", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Satélite Sección Andadores", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Satélite Sección Condominios", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76113": [
+        {
+            "colonia": "Alborada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques del Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Arcángel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Sol Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Luna", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Framboyanes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Plan Santa María", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho San Pedro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada del Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Isabel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tonatiú", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tonatiuh 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tonatiuh 3a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tonatiuh 4a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de San Pedro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de San Pedro 2a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76114": [
+        {
+            "colonia": "Don Manuel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Rocio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Rocio II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Huerta", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Carmen", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Castaños", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Sauces", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerta del Sol II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sendero", 
+            "tipo": "Zona comercial", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76115": [
+        {
+            "colonia": "El Garambullo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Parque Santiago", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76116": [
+        {
+            "colonia": "25 de Diciembre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ampliación Patria Nueva", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Benito Juárez", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bugambilias Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Casa Blanca", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado 2a Secc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Che Guevara (Axayacatl)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Chula Vista I", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Chula Vista II", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ciudad del Sol", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ciudad del Sol Sección Valle de Santiago", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Claustros de la Loma", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas del Poniente", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Condominio La Cordillera", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eucaliptos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ex-Hacienda Santana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Geo Plazas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Geo Villas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Azucenas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Josefa Ortiz de Domínguez IV", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Floresta", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Loma", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Peña", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Azucenas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Camelinas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma IX", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Real", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San Ángel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Encinos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión de Carrillo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión de Carrillo II", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Patria Nueva", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados del Rincón 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerta del Sol", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerta Navarra", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Querena", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real de la Loma", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada de las Fuentes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rocio Sanz", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sierra Colorada", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tenochtitlán", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tenochtitlán II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Teotihuacan", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Víctor Iturbe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de Guadalupe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vistas del Valle", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76117": [
+        {
+            "colonia": "Centenario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de Santa Cruz 1a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de Santa Cruz 2a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Comevi", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo Familiar", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fernando de Tapia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Francisco Javier Mina", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fundadores", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Insurgentes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines del Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Esmeralda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Laderas de San Pedro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Fundadores", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pedregal de Buenos Aires", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados del Rincón", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rubén Jaramillo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Marcos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Marcos I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedro Mártir", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76118": [
+        {
+            "colonia": "10 de Abril", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "15 de Mayo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "5 de Febrero", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado III", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado IV", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado V", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado VI", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerrito Colorado VII", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eduardo Loarca Castillo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Romerillal", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Tepeyac", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Francisco Villa I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Francisco Villa II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Hacienda Mompaní", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Independencia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Jurica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Leyes de Reforma", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Libertadores", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Bonita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Bonita 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Pedregal 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Luis Donaldo Colosio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Miguel Hidalgo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Monte Vesubio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Morelos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paraíso", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paseos de San Miguel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados de Loma Bonita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real del Marques Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Revolución", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada del Cerrito", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rosendo Salazar", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Miguel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de San Miguel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76120": [
+        {
+            "colonia": "Benito Juárez", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santiago", 
+            "tipo": "Parque industrial", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76121": [
+        {
+            "colonia": "Altos de San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Conquistadores", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Felipe Ángeles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Esperanza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Américas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Américas San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Movimiento Obrero", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nueva Esperanza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puesta del Sol", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo III (INFONAVIT)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo IV (INFONAVIT)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tlanese", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76125": [
+        {
+            "colonia": "Balcones de San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bellavista", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cipreses", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo San Ángel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo San Pablo I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo San Pablo II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Alborada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "José María Bustamante", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Condesa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Latinoamericana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San Pablo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Robles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Margaritas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Bucareli Sur", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Horizonte", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Proyección 2000", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Punta San Carlos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rivera y Tamayo", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo", 
+            "tipo": "Ejido", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo I FOVISSSTE", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo II FOVISSSTE", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sergio Villaseñor", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Terrazas de San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76127": [
+        {
+            "colonia": "Arco de Piedra", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cuitláhuac", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Salitre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Salitre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Palmares", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Parque Industrial Jurica", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Raquet Club", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76130": [
+        {
+            "colonia": "Industrial", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Obrera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76134": [
+        {
+            "colonia": "Ampolletas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Arco", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Mirador", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Tintero", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Tintero", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ex-Hacienda El Tintero", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Carrillo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Plutarco Elías Calles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho Bellavista", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Sebastián", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Mónica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Solidaridad 90", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76135": [
+        {
+            "colonia": "5 de Febrero", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Antonio de la Punta", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76136": [
+        {
+            "colonia": "José María Arteaga", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Zona Militar", 
+            "tipo": "Equipamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76137": [
+        {
+            "colonia": "Del Valle", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Chamizal", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ferrocarriles Sección Rinconada Santa Anita", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fuentes Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines del Valle", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Aurora", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Sierrita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Flores", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada Santa Anita", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Antonio del Maurel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José 2a Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa María Magdalena", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santo Niño", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle Real de San Ángel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76138": [
+        {
+            "colonia": "El Higo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Progreso", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Tintero", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Felipe Carrillo Puerto", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Teresas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Luis Donaldo Colosio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada Zimapán", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Mónica 1a Sección", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Mónica 2a Secc", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle del Mezquital", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de Santa Mónica", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76139": [
+        {
+            "colonia": "Carrillo", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Higuera", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Josefinas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Laureles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Tabachines", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Manuel Jurado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Diego", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76140": [
+        {
+            "colonia": "Altos del Marqués 1 y 2 Etapa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Arboledas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Arboledas del Parque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Balcones Coloniales", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cedros Alcatraces", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cedros Tilipanes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas del Parque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Plazas", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Parque Querétaro 2000", 
+            "tipo": "Equipamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada Arboledas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Peñuelas", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas del Parque", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vista 2000", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Viveros Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76144": [
+        {
+            "colonia": "Anexo Ejido Bolaños", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Balcones del Acueducto", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bolaños", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Pedregal de Querétaro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerta del Cielo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho San Antonio", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76146": [
+        {
+            "colonia": "Bolaños", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Campanario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cima", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Purísima", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Vista Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Campanario II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Campanario III", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Marqués", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Miradores", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paseo San Junípero", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial el Refugio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas Palmira", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76147": [
+        {
+            "colonia": "12 de Diciembre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Antorchista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Buenos Aires", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cinco Halcones", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de Menchaca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de Menchaca 2a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Constituyentes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cuauhtémoc", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Diana Laura Rojas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ejido Menchaca (Los Pinos)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Arcángel (La Guayina)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Enrique Burgos (La Rinconada)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Epigmenio González (El Oasis)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fray Junípero Serra", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Generación 2000", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ignacio Pérez", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ignacio Zaragoza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Independencia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de San José", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de San José 1a. y 2a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de San José 3a. Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Ladera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Ladera (Menchaca III)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Tinaja", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Fuentes", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Libertadores de América", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lic. Alfredo Estrada Romero", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Menchaca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San José", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Arroyitos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Huertos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Menchaca I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Menchaca II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Menchaca III", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Monarca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mujeres Independientes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nueva Creación", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Menchaca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Oasis", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Palmas de San José", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privalia Ambienta", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho Menchaca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho Menchaca (Ex-Hacienda Menchaca)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rancho Quemado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real de España", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Renacimiento", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada de las Joyas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Ángel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Felipe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José el Alto", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Fe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valles de San José", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Victoria Popular", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de San José", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Vistana", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76148": [
+        {
+            "colonia": "Alameda", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Amalia Solórzano", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ampliación Amalia Solórzano", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Anexo a la Ecólogia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques de Buenavista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques de Iturbide", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bosques de la Hacienda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Conjunto Belén", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cuesta Azul", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Desarrollo Centro Norte", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Castaño", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Castaño II", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Jardín", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Parque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Vergel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eurípides", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Santiago", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de Villas de Santiago", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Ladera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Rueca", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Libertad", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San Pedrito", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San Pedrito (Sección Portales)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Ciruelos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Padilla", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Sabinos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mallorca", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Bucareli Norte", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Riviera", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nueva Esperanza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo San Pedrito", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paseos de la Cuesta", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paseos del Pedregal", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Peñuelas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerta de Belén", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Reforma Agraria Radical", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ricardo Flores Magón", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rincones del Parque", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Ecológico", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito los Arcos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Peñuelas I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Peñuelas II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Peñuelas III", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pedrito Peñuelas IV", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Unidad Nacional", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de San Pedrito Peñuelas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de Santiago", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas Fontana", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76149": [
+        {
+            "colonia": "Misión de Concá", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión San Jerónimo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76150": [
+        {
+            "colonia": "Asalias", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Bugambilias", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Constituyentes FOVISSSTE", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Fenix", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Felipe Ángeles", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Géminis", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Era", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Estación F.F.C.C.", 
+            "tipo": "Estación", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Florida", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Piedad", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Popular", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Palomas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Alcanfores", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Alcanfores Sección Sur", 
+            "tipo": "Equipamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Fresnos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Molinos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Vitrales", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Molinos de la Era", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Parque Industrial la Montaña", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada los Pirules", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada San José", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo Tecnológico", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Roque", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Roque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sauces", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tecnológico 2000", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas Tecnológico", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76154": [
+        {
+            "colonia": "El Retablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76155": [
+        {
+            "colonia": "Viveros de Querétaro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76156": [
+        {
+            "colonia": "Constituyentes de 1824", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Alcanfores Sección Norte", 
+            "tipo": "Equipamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Eucaliptos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Gregorio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76157": [
+        {
+            "colonia": "Santa Catarina", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76158": [
+        {
+            "colonia": "Conjunto Parques", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Departamental Parques", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Porvenir", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "España", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Peñas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Peñitas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Faroles", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Prados del Tecnológico", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real del Parque", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tecnológico", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Victoria", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76159": [
+        {
+            "colonia": "5 de Febrero", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Balcón Campestre", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Conjunto Querétaro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fresnos Condominio 2", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fresnos Condominio 3", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fresnos Condominio 4", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cima", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Girasoles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real de San Pablo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real Jurica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada San Joaquín", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Pablo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76160": [
+        {
+            "colonia": "Álamos 1a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Álamos 2a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Álamos 3a Sección", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Cerrito", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Tepetate", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Brujas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Hadas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Montecarlo", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada Bugambilias", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Parque del Álamo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada de los Alamos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Romy", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76164": [
+        {
+            "colonia": "Las Rosas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nacozari", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Primavera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76165": [
+        {
+            "colonia": "Guadalupe Victoria (SAHOP)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Cedros", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Claustros", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Margaritas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Sebastián", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76166": [
+        {
+            "colonia": "La Trinidad", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76168": [
+        {
+            "colonia": "Claustros del Parque", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Industria del Hierro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jacarandas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Gemas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lindavista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Lindavista", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mega Plaza", 
+            "tipo": "Zona comercial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Quinta La Laborcilla", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Bosques", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76169": [
+        {
+            "colonia": "Plaza Boulevares", 
+            "tipo": "Zona comercial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Plaza del Parque", 
+            "tipo": "Zona comercial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada la Laborcilla", 
+            "tipo": "Unidad habitacional", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76170": [
+        {
+            "colonia": "Colibrí", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eucaliptos I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eucaliptos II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Eucaliptos III", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Capilla", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Reja", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76175": [
+        {
+            "colonia": "Los Virreyes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76176": [
+        {
+            "colonia": "Prados de La Capilla", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76177": [
+        {
+            "colonia": "Carolina", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Demetrio Vallejo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ejido Modelo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Frida Kahlo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Galindas Residencial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Hacienda Galindo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Carambada", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Toscana", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Modelo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Provincia Santa Elena", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Frondoso", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Gema", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Parque La Gloria", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rinconada La Capilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa Jardín", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de San Antonio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76178": [
+        {
+            "colonia": "El Rosario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ensueño", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Sandia", 
+            "tipo": "Condominio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Ángeles I", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa las Arboledas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76179": [
+        {
+            "colonia": "C.E.A.", 
+            "tipo": "Zona federal", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Sillar", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Quinta Alicia", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Italia", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santiago", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76180": [
+        {
+            "colonia": "Anáhuac", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Jacal", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jardines de la Hacienda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Granja", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Joya", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Plazas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Magisterial", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Orquídeas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76185": [
+        {
+            "colonia": "Claustros del Campestre", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Hacienda San Miguel", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mansiones del Valle", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76190": [
+        {
+            "colonia": "Club Campestre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Del Valle", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Querétaro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Pilares", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Rincón de San Antonio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76197": [
+        {
+            "colonia": "Fidel Velázquez Sánchez", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76199": [
+        {
+            "colonia": "Prados del Campestre", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76210": [
+        {
+            "colonia": "Jofrito", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Ciénega", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Estacada", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Gotera", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }
+    ], 
+    "76211": [
+        {
+            "colonia": "Ojo de Agua", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76212": [
+        {
+            "colonia": "El Raspiño", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Rincón de Ojo de Agua", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Guadalupe (La Lagrima)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Cantera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Luz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76213": [
+        {
+            "colonia": "Jofrito", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Palma", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Versolilla", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Palo Alto", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }
+    ], 
+    "76214": [
+        {
+            "colonia": "El Zapote", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Estancia Palo Dulce", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76215": [
+        {
+            "colonia": "El Camino", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Jofre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Parque Industrial Querétaro", 
+            "tipo": "Zona industrial", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Antonio de Trojes", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76216": [
+        {
+            "colonia": "Presa de Becerra", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76217": [
+        {
+            "colonia": "Cañada de la Monja", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cerrito", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Curva", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76218": [
+        {
+            "colonia": "Loma del Chino", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76219": [
+        {
+            "colonia": "La Monja", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76220": [
+        {
+            "colonia": "Arboledas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Benito Juárez", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colinas de Santa Rosa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Continental", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Corregidora", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Pedregal", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Emiliano Zapata", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Francisco Villa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cruz", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Loma", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Flores", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Lajitas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Rosas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lindavista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas del Pedregal", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Ángeles", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Arquitos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Montenegro", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Parque Industrial Polígono Empresarial", 
+            "tipo": "Zona industrial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Puerto de Aguirre", 
+            "tipo": "Pueblo", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Francisco", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Miguelito", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Lucia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Rosa de Jauregui", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Valle Dorado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76221": [
+        {
+            "colonia": "Cerro de la Cruz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Charape de la Joya", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Barreta", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Carbonera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Joya", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76223": [
+        {
+            "colonia": "Ampliación Piano", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Corea", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Hacienda Santa Rosa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Venados", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Montenegro", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Pintillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Pinto", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Isidro Buenavista", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Catarina", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Catarina (Asociación de Colonos)", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Zona Este de Montenegro", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }
+    ], 
+    "76224": [
+        {
+            "colonia": "Casa Blanca", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cerro Colorado (El Colorado)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cerrito", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Herrero", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Madroño", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Paraíso", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Estancia de la Rochera", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Puerta de Santiaguillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Llano de La Rochera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Jiménez", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Pie de Gallo", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presita de San Antonio", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Isidro Viejo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Zona Periferica San Miguelito", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }
+    ], 
+    "76225": [
+        {
+            "colonia": "Buenavista", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campo Real", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Guadalupana", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lomas del Mirador", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }
+    ], 
+    "76226": [
+        {
+            "colonia": "Acequia Blanca", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campestre Ecológico la Rica", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campestre Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cuadrilla Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Jurica Misiones", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Juriquilla", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Loma Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lomas de Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de San Isidro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real de Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Real de Juriquilla Prados", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rincón del Lago", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Isidro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San José Buenavista", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Villas del Mesón", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }
+    ], 
+    "76227": [
+        {
+            "colonia": "Cerro Prieto", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Patol", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Transito", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Purísima", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Muertos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Quintín Lozada", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76228": [
+        {
+            "colonia": "La Tinaja de La Estancia", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Isidro El Alto", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76229": [
+        {
+            "colonia": "El Bordo", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Nabo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Pie", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Puertecito", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Mesita de Abajo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mompaní", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puertas de San Miguel", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Francisco de la Palma", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa María del Zapote", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tlacote El Alto", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tlacote el Bajo", 
+            "tipo": "Pueblo", 
+            "zona": "Urbana"
+        }
+    ], 
+    "76230": [
+        {
+            "colonia": "Altavista Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Azteca", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Balcones de Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Caletto", 
+            "tipo": "Residencial", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Colinas de Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cumbres del Lago", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Hacienda Grande", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Independencia", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Jurica Acueducto", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Jurica La Solana", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Jurica Tolimán", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Juriquilla Privada", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Juriquilla Santa Fe", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Cañada Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Solana", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Naranjos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mayoral 1 y 2", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Nuevo Juriquilla", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Paraíso", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Paraíso Diamante", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Paseo del Piropo", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Punta Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho Largo", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rinconada Santini", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Francisco Juriquilla", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }
+    ], 
+    "76233": [
+        {
+            "colonia": "El Huizachal de las Tetillas", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Nopalera", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Mariposas", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Guardados", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76234": [
+        {
+            "colonia": "Mesita de Mompani", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santo Niño de Praga", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76235": [
+        {
+            "colonia": "Campestre Huertas la Joya", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Rincón", 
+            "tipo": "Ranchería", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Fracción Ejido el Retablo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puerta Verona", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sección Oeste de Santa María", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Sonterra", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Viñedos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }
+    ], 
+    "76237": [
+        {
+            "colonia": "Altozano el Nuevo Querétaro", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "CERESO del Estado", 
+            "tipo": "Zona federal", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Pedrito el Alto", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "76238": [
+        {
+            "colonia": "Las Águilas", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Nuevo Horizonte", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Prados de Miranda", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Juanita", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }
+    ]
+}

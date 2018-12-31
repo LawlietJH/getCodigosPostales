@@ -1,0 +1,2212 @@
+{
+    "36000": [
+        {
+            "colonia": "Guanajuato Centro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36003": [
+        {
+            "colonia": "Alameda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36008": [
+        {
+            "colonia": "Presidencia Municipal", 
+            "tipo": "Gran usuario", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36009": [
+        {
+            "colonia": "Oficina Federal de Hacienda", 
+            "tipo": "Gran usuario", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36010": [
+        {
+            "colonia": "Cata", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Garrapata", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mellado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36013": [
+        {
+            "colonia": "Cerro de San Antonio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Gualdra", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Luisito", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36014": [
+        {
+            "colonia": "Ex-Hacienda de Durán", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ex-Hacienda de Luna", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36015": [
+        {
+            "colonia": "Cerro del Cuarto", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Calzada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Huertas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Palmas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Minera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Misión Del Quijote", 
+            "tipo": "Conjunto habitacional", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Modelo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36016": [
+        {
+            "colonia": "Cerro de Sirena", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro del Sagrado Corazón", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jales de Durán", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36020": [
+        {
+            "colonia": "San Javier 1", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Javier 2", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Matías", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36023": [
+        {
+            "colonia": "Cerro del Erizo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Filtros de Valenciana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Valenciana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valenciana", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }
+    ], 
+    "36024": [
+        {
+            "colonia": "Cerro de la Garita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "De la Cochera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36030": [
+        {
+            "colonia": "El Carrizo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Venada", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Maravillas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Panteón", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36033": [
+        {
+            "colonia": "Arroyo del Pirúl", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Del pueblito de Rocha", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36040": [
+        {
+            "colonia": "Encino", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Aldana (Ramón Rangel)", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Luz", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pueblito de Rocha", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Fe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36043": [
+        {
+            "colonia": "Presa de Rocha", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36044": [
+        {
+            "colonia": "Arroyo Aldana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Del Bosque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Pinos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36050": [
+        {
+            "colonia": "Noria Alta", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36053": [
+        {
+            "colonia": "San Antonio", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Gabriel de Barrera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36059": [
+        {
+            "colonia": "Secretaria de Educación Pública", 
+            "tipo": "Gran usuario", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36060": [
+        {
+            "colonia": "Gavilánes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Escalera San Javier", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36080": [
+        {
+            "colonia": "Camino Real", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro del Hormiguero", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Terrazas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Bonita", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma Pozuelos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Molino del Rey", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Real de San Juan", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36086": [
+        {
+            "colonia": "Municipio Libre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36089": [
+        {
+            "colonia": "Cerro de San Miguel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro del Gallo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nuevo Guanajuato", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Picachos", 
+            "tipo": "Residencial", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pozuelos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36090": [
+        {
+            "colonia": "Cerro de la Bolita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro de los Leones", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pastita", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Zapote", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36093": [
+        {
+            "colonia": "Cerro de Guijas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Peñafiel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Peñolera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36094": [
+        {
+            "colonia": "El Saucillo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Embajadoras", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Bufa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Zaragoza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paseo de La Presa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Universitario", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36220": [
+        {
+            "colonia": "Cañada de las Flores", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Roble", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Mesa de San José", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Martines", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Reyes (Cabaña los Reyes)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Plan de la Mina (Alejandro Serna)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puerto de Santa Rosa", 
+            "tipo": "Poblado comunal", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Quinteros", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Isidro de Núñez", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Rosa de Lima", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }
+    ], 
+    "36223": [
+        {
+            "colonia": "Cebolletas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "De Enmedio", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Antenas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de Peregrina", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral del Cubo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Villalpando", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36224": [
+        {
+            "colonia": "El Plan de los Galgos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Ciénega", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rosa de Castilla", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }
+    ], 
+    "36225": [
+        {
+            "colonia": "Campuzano", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campuzano (El Fraile)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campuzano (La Junta)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Campuzano (Las Golondrinas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Chorro (Las Lagunitas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Chorro (San Gregorio del Chorro)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Llano", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Pinillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Media Luna de Campuzano", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36227": [
+        {
+            "colonia": "El Castillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Coyote", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Tejabán", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Galeras", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Media Luna", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presa de Montelongo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José del Chapín", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Nicolás (San Nicolás del Chapín)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Pablo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Pedro", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36228": [
+        {
+            "colonia": "Piedra Blanca del Rodeo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José del Montecillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José del Rodeo", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tacubaya", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tacubaya (El Chirris)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36230": [
+        {
+            "colonia": "Cerro del Macho (La Cabaña)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Castillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Puerto de Barrientos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lagunillas de la Fraternidad", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Palomas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Llanos de la Fragua", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de la Fragua", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Socavón de Burgos (La Conda)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36233": [
+        {
+            "colonia": "Cañada de la Virgen", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ciénega Grande", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Ciprés (Tierras Coloradas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Tablón", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Varal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Huerta", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mesa de los Hernández", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Picones", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Potrero (La Ciénega del Potrero)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho Viejo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santo Domingo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36234": [
+        {
+            "colonia": "Agua Buena", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Calvillo", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Ranchito", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Grullos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mesa de San José (La Rinconada)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ojo de Agua de Calvillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36235": [
+        {
+            "colonia": "Caleras de Corrales", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Hacienda de Arriba", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Mexicanos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de Garrapata", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Monte de San Nicolás", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Peñafiel", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36236": [
+        {
+            "colonia": "Calderones (La Peñita)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cedro (Mineral del Cedro)", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Palma", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral del Carmen", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral del Nayal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Miguel de Cardones", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36237": [
+        {
+            "colonia": "Calderones", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Carbonera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cerro de Calderones [Repetidora]", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cerro del Tepozán [Retransmisora de RTG]", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Chichíndaro", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Trompetero (Cerro del Trompetero)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja San Martín (Subida a la Cuesta)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Olimpo (Casas Blancas)", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presa de Mata", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Señor Vázquez", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Solano", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "UCEA Campus Marfil", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36240": [
+        {
+            "colonia": "Arperos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cuestecita de San Juan", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Carrizo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Estancia de Comanjilla", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Loma", 
+            "tipo": "Poblado comunal", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Palma", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Adjuntas de Magdalenas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Magdalenas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Gómez (La Estancia)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Lorenzos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Pinos", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }
+    ], 
+    "36243": [
+        {
+            "colonia": "Buenavista (El Roble)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Mogote", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Nogal (Las Palancas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Puertecito (El Fuertecito)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Tiro de la Estrella", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Asunción", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Flor (Las Antenas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Güilota", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Carreras (Las Carreras del Puertecito)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Gasca", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Jilgueros (Chupadero)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Polvorines de la Luz (Loma de los Gasca)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Melladito", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Melladito (Cerrito del Zacate)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mina Bolañitos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de la Luz", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de Mexiamora", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de San Pedro Gilmonene", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mineral de Santo Niño", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ojo de Agua", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho Viejo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Romerillal (El Torito)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Antonio de Ovejera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Ignacio de Purísima", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Gracia", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Sangre de Cristo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tajo de Adjuntas (Rancho de San Cayetano)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36244": [
+        {
+            "colonia": "Cimientos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Terrero", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Maíz Morado", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rosita de San Juan (El Salvador el Capulín)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36245": [
+        {
+            "colonia": "Calera de los Ruiz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ciénega de Negros", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cieneguita de San Bartolo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cueva del Cedro", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Aserradero", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Chocolate (Barrio de Guadalupe)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cuate", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cuervito (El Cuervo)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Encinal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Laurel", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Zorrillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ojo de Agua de Medina", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Bartolo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tenerías", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36246": [
+        {
+            "colonia": "Balcones de la Esperanza", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Doña Panchita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Arenal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Potrero", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Aldana", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Higuera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Tinaja", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Viñas (Cerro de las Antenas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Llano Grande", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Llanos de Santa Ana", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lomas de Mesa Cuata (Joya del Pirul)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presa de la Soledad", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presa la Esperanza", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presita del Pie (Presitas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puerto del Oro (El Orito)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Real de la Esperanza", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Ana (Santana)", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Tejabanes del Tajo (Camino al Tajo Kilómetro Dos)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36247": [
+        {
+            "colonia": "Agua Colorada", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Buenavista", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Joya de Lobos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Joya de Lobos (Cumbres del Guapillo)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Concepción", 
+            "tipo": "Poblado comunal", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Joya de Santa Lucía", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lomas de Mesa Cuata", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Mesa Cuata", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puerto de las Jarillas (Puerto del Atajo)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José del Gacho", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36250": [
+        {
+            "colonia": "Marfil Centro", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas Cervantinas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36253": [
+        {
+            "colonia": "Águilas", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cerro de La Coyota", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro Lindavista", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Bateas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Palomas", 
+            "tipo": "Barrio", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma de los Santos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Magueyes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Marfil Dorado", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pánuco", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Presa de los Santos", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36254": [
+        {
+            "colonia": "Biznagas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Arte", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Ex Hacienda Santa Teresa", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Hacienda", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Teresas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Marfil I", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Marfil II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada del Arte", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Real del Bosque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36255": [
+        {
+            "colonia": "Burocrático", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro de Los Tumultos", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cocaleca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "De La Quinta", 
+            "tipo": "Barrio", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Laurel", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Jalapa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Yerbabuena", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Peñitas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Privada La Esperanza", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Residencial Marfil", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Servidor Agrario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tres Estrellas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa Hermosa", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa Jacarandas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villa Las Palmas", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de Marfil", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas Manchegas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36256": [
+        {
+            "colonia": "Arroyo Verde", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Burócrata", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cerro de La Campana", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cúpulas", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Mezquital", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "La Sauceda", 
+            "tipo": "Hacienda", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Terrazas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Los Alcaldes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mineral de La Hacienda", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36257": [
+        {
+            "colonia": "Alhóndiga", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Arroyo Blanco", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Balcones de Santa Fé", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Caminera", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Campanario", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cañada de Cervera", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cervera", 
+            "tipo": "Ranchería", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cumbres de Santa Fe", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Cúpula 1", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Independencia", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Independencia Sección Valle de Santa Fé", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Insurgentes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Las Trojes", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Loma del Padre", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Cervera", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Santa Fe", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Lomas de Santa Fe II", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Mártires", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Pozo del Padre Santa Fé de Guanajuato", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Santa Fé SCT", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Valle de San José", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villaseca", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36258": [
+        {
+            "colonia": "Cambria", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Villas de Guanajuato", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Rural"
+        }
+    ], 
+    "36259": [
+        {
+            "colonia": "Arboledas", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Colonial Guanajuato", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Establo", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "El Pulque", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Manantial", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Nueva España", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Paso del Norte", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "San Isidro", 
+            "tipo": "Congregación", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Tirio", 
+            "tipo": "Fraccionamiento", 
+            "zona": "Urbana"
+        }, 
+        {
+            "colonia": "Yerbabuena", 
+            "tipo": "Colonia", 
+            "zona": "Urbana"
+        }
+    ], 
+    "36260": [
+        {
+            "colonia": "San José de La Luz", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Teresa", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }
+    ], 
+    "36263": [
+        {
+            "colonia": "Cerrito del Oro", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cuevas (Huachimole de Cuevas)", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Del Magisterio [Hotel]", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Arenal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Cerrito (El Cerrito de las Biznagas)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Maluco", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Puerto", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Fracción Cañada de Bustos (La Loma)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Fracción Carbonera (El Microbio)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "ITESG (Tecnológico)", 
+            "tipo": "Equipamiento", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Presita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Rotonda", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Tabla", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Cañadas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Pachonas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Lomas de Cervera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Agaves", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Aguilar", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Pinos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Paso de Pirules", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Placeres", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Puentecillas", 
+            "tipo": "Pueblo", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Río Grande", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Cervera", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Tránsito", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Tránsito (El Aguacate)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santa Catarina de Cuevas (El Tinaco)", 
+            "tipo": "Ejido", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Villa Mercedes (Dinastía Elías)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36264": [
+        {
+            "colonia": "Agua Zarca", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ciénega del Pedregal", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Poza (Ojo de Agua)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Trinidad", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Cabañas de la Presa", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Las Cunetas", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Cajones", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Gracia", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San Vicente de la Cruz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36265": [
+        {
+            "colonia": "El Cerrito del Zapote", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Tropezón", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Haciendita de Buburrones", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Colmena [Relleno Sanitario]", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Joya", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Presa de Burrones", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Quebradora", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Loma de la Haciendita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Nochebuena", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Presa del Gongorrón (Cueva del Tizar)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de la Luz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ], 
+    "36266": [
+        {
+            "colonia": "San José de Llanos", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }
+    ], 
+    "36267": [
+        {
+            "colonia": "Cañada de Bustos", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Capulín de Bustos", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Limón", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Milagro", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Molino", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Resbalón", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Ex-Hacienda el Sauz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Haciendita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Mora", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "La Presa de la Purísima", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Molineros", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Nuevo Santiaguillo", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Quinta la Purísima", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Santiaguillo", 
+            "tipo": "Hacienda", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Venta la Purísima", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Zangarro (Zangarro Nuevo)", 
+            "tipo": "Congregación", 
+            "zona": "Rural"
+        }
+    ], 
+    "36268": [
+        {
+            "colonia": "Ampliación de Guadalupe", 
+            "tipo": "Colonia", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Cerrito Frío", 
+            "tipo": "Poblado comunal", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "El Mirador", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja la Paz", 
+            "tipo": "Granja", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja la Paz", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja Loma Bonita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja San José", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Granja Teresita", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Hacienda de Guadalupe", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Los Nicolases", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho la Cañada Grande", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho los Navarro (El Charco)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "Rancho San Francisco", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Llanos (El Zapote)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }, 
+        {
+            "colonia": "San José de Llanos (Faustino Miranda)", 
+            "tipo": "Ranchería", 
+            "zona": "Rural"
+        }
+    ]
+}
