@@ -17,9 +17,9 @@ sys.setdefaultencoding('utf-8')
 def getCPs(municipio):
 	
 	cont = 0
-	page2 = 'https://micodigopostal.org/' + municipio
+	page = 'https://micodigopostal.org/' + municipio
 	
-	req = requests.get(page2)
+	req = requests.get(page)
 	
 	if req.status_code == 200:
 		
@@ -86,9 +86,10 @@ if __name__ == '__main__':
 	for i, municipio in enumerate(municipios):
 		
 		print('\n\n\n\t [+] Municipios: {} de {}'.format(i+1, len(municipios)))
+		
 		codigosPostales = getCPs(municipio)
-		js = json.dumps(codigosPostales, indent=4,
-						sort_keys=True,  ensure_ascii=False)
+		
+		js = json.dumps(codigosPostales, indent=4, sort_keys=True, ensure_ascii=False)
 		
 		if not os.path.exists('municipios/'): os.mkdir('municipios/')
 		
