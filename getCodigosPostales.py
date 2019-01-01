@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # By: LawlietJH
-# Version: 1.0.2
+# Version: 1.0.3
 
 import os, sys, json
 import requests
@@ -16,10 +16,15 @@ sys.setdefaultencoding('utf-8')
 
 def getCPs(municipio):
 	
+	req = None
 	cont = 0
 	page = 'https://micodigopostal.org/' + municipio
 	
-	req = requests.get(page)
+	try:
+		req = requests.get(page)
+	except requests.exceptions.ConnectionError:
+		print('\n\n\t No Hay Conexion A Internet...')
+		sys.exit()
 	
 	if req.status_code == 200:
 		
